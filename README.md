@@ -15,7 +15,7 @@
 3. Then run the image ### ` docker run "image_name"`
 
 ## `Database`
-1. Import docker image from dockerhub using this command ` docker pull "image_name_version"`
+1. Import docker image from dockerhub using this command ` docker pull mysql`
 
 ## `Nginx` 
 1. Install Nginx `sudo apt install nginx`

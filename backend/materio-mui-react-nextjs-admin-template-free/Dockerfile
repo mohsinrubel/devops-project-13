@@ -1,5 +1,5 @@
 # Stage 1: Building the code
-FROM node:latest
+FROM node:16-alpine AS builder
 
 # Set the working directory
 WORKDIR /app
